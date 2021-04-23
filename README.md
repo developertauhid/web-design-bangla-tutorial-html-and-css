@@ -27,5 +27,9 @@ CSS এখন থ্রি ভার্সন চলে,  একটা বাড
 শুধুমাত্র এইচটিএমএল এবং সিএসএস লাগে তবে সেগুলো করার জন্য আপনাকে ভালো ক্রিয়েটিভ হতে হবে বা প্রচুর অন্যান্য জিনিস শেখার আগ্রহ আছে বা খুব দ্রুত শিখতে পারেন 
 এমন হতে হবে কেননা এই বিষয়গুলো একটার সাথে অন্যটা রিলেটেড, কি কি ছোট ছোট কাজ পাওয়া যায় সেগুলো সম্পর্কে আমি ভিডিওতে ধারণা দিয়েছি</p>
 
-Video Link: 
+Video Link: https://youtu.be/kZoT1GCfznA
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZoT1GCfznA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
