@@ -29,7 +29,7 @@ CSS এখন থ্রি ভার্সন চলে,  একটা বাড
 
 Video Link: https://youtu.be/kZoT1GCfznA
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZoT1GCfznA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 
